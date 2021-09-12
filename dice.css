@@ -1,0 +1,23 @@
+body {
+    background-color: #171738;
+}
+
+.container {
+    font-family: 'Lobster', cursive;
+    color: aquamarine;
+    text-align: center;
+    /* margin: auto; */
+}
+
+h1 {
+    font-size: 8rem;
+    text-shadow: 5px 5px 8px #647AA3;
+    margin-top: 0%;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    padding: 0% 10%;
+    font-size: 35px;
+}
